@@ -1,0 +1,9 @@
+# Exclude the VSC_venv folder
+VSC_venv/
+
+# Exclude Dissertation_Notes (Word document)
+Dissertation_Notes.docx
+
+# Exclude gantt_chart.py
+gantt_chart.py
+
