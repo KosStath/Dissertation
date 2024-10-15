@@ -1,13 +1,7 @@
 # Exclude the VSC_venv folder
 VSC_venv/
 
-# Exclude Dissertation_Notes (Word document)
-Dissertation_Notes.docx
 
-# Exclude gantt_chart.py
-gantt_chart.py
 
-# Ignore Python scripts and CSV files in Data/Mesh_Terms
-Data/Mesh_Terms/*.py
-Data/Mesh_Terms/*.csv
-Data/Mesh_Terms/*.txt
+
+
